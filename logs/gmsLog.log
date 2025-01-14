@@ -445,3 +445,117 @@ practice.error_exception.global.exception.object.ServiceException: TEST
 2025-01-13 17:56:08 [taskScheduler-1] ERROR p.e.domain.test.testService - test
 2025-01-13 17:56:08 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
 2025-01-13 17:56:08 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: test
+2025-01-14 09:25:08 [taskScheduler-3] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:25:08 [taskScheduler-2] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:25:08 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:25:08 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:25:08 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:25:08 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:25:18 [taskScheduler-2] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:25:18 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:25:18 [taskScheduler-3] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:25:18 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:25:18 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:25:18 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:25:28 [taskScheduler-3] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:25:28 [taskScheduler-2] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:25:28 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:25:28 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:25:28 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:25:28 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:25:38 [taskScheduler-2] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:25:38 [taskScheduler-3] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:25:38 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:25:38 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:25:38 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:25:38 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:35:52 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:35:52 [taskScheduler-3] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:35:52 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:35:52 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:35:52 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:35:52 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:36:02 [taskScheduler-1] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:36:02 [taskScheduler-3] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:36:02 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:36:02 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:36:02 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:36:02 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:40:17 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:40:17 [taskScheduler-1] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:40:17 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:40:17 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:40:17 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:40:17 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:40:27 [taskScheduler-1] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:40:27 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:40:27 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:40:27 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:40:27 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:40:27 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:40:37 [taskScheduler-1] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:40:37 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:40:37 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:40:37 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:40:37 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:40:37 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:40:47 [taskScheduler-1] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:40:47 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:40:47 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:40:47 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:40:47 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:40:47 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:40:57 [taskScheduler-1] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:40:57 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:40:57 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:40:57 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:40:57 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:40:57 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:41:07 [taskScheduler-1] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:41:07 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:41:07 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:41:07 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:41:07 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:41:07 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:41:17 [taskScheduler-1] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:41:17 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:41:17 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:41:17 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:41:17 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:41:17 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:41:27 [taskScheduler-1] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:41:27 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:41:27 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:41:27 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:41:27 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:41:27 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:41:37 [taskScheduler-1] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:41:37 [taskScheduler-2] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:41:37 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:41:37 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:41:37 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:41:37 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:42:28 [taskScheduler-2] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:42:28 [taskScheduler-3] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:42:28 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:42:28 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:42:28 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:42:28 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:42:38 [taskScheduler-2] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:42:38 [taskScheduler-3] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:42:38 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:42:38 [taskScheduler-1] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:42:38 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:42:38 [taskScheduler-3] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:48:57 [EmfoGMS-LogTest] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:48:57 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:48:57 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:48:57 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:48:57 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:48:57 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-14 09:49:07 [EmfoGMS-LogTest] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-14 09:49:07 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-14 09:49:07 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-14 09:49:07 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-14 09:49:07 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-14 09:49:07 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
