@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.example.come
+    port: 587
+    username: stpark0509@example.com
+    password: "@tmdxo131526"
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true

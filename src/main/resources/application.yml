@@ -1,3 +1,16 @@
 spring:
-  main:
-    web-application-type: none
+#  main:
+#    web-application-type: none
+  config:
+    import:
+      - classpath:kafka-config.yml
+      - classpath:mail-config.yml
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, metrics, prometheus
+  endpoint:
+    health:
+      show-details: always

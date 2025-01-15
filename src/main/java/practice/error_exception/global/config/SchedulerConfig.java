@@ -10,7 +10,7 @@ public class SchedulerConfig {
     @Bean
     public ThreadPoolTaskScheduler taskScheduler() {
         ThreadPoolTaskScheduler scheduler = new ThreadPoolTaskScheduler();
-        scheduler.setPoolSize(3);
+        scheduler.setPoolSize(4);
         scheduler.setErrorHandler(new CustomErrorHandler());
         return scheduler;
     }
