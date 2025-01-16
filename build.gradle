@@ -23,6 +23,9 @@ dependencies {
 	// actuator
 	implementation 'org.springframework.boot:spring-boot-starter-actuator'
 
+	// AOP
+	implementation "org.springframework.boot:spring-boot-starter-aop"
+
 	// Kafka
 	implementation 'org.springframework.kafka:spring-kafka'
 

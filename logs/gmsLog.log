@@ -1,0 +1,84 @@
+2025-01-16 09:26:31 [EmfoGMS-LogTest] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-16 09:26:31 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 09:26:31 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 09:26:31 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 09:26:31 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 09:26:31 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 09:27:26 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 09:27:26 [EmfoGMS-LogTest] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-16 09:27:26 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 09:27:26 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 09:27:26 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 09:27:26 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:15:28 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:15:28 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:15:28 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:15:28 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:15:28 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:15:29 [EmfoGMS-LogTest] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-16 13:15:39 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:15:39 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:15:39 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:15:39 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:15:39 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:15:39 [EmfoGMS-LogTest] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-16 13:15:49 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:15:49 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:15:49 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:15:49 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:15:49 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:15:49 [EmfoGMS-LogTest] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-16 13:15:59 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:15:59 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:15:59 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:15:59 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:15:59 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:15:59 [EmfoGMS-LogTest] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-16 13:16:09 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:16:09 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:16:09 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:16:09 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:16:09 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:16:09 [EmfoGMS-LogTest] ERROR p.e.domain.test.testService - This is the test to check if Logs are logged in the gmsLog file
+2025-01-16 13:41:32 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:41:32 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:41:32 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:41:32 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:41:32 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:41:32 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:41:32 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: AopTestMessage
+2025-01-16 13:41:42 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:41:42 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:41:42 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:41:42 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:41:42 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:41:42 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:41:42 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: AopTestMessage
+2025-01-16 13:41:52 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:41:52 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:41:52 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:41:52 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:41:52 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:41:52 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:41:52 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: AopTestMessage
+2025-01-16 13:44:10 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:44:10 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:44:10 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:44:10 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:44:10 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:44:10 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:44:10 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: AopTestMessage
+2025-01-16 13:44:20 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:44:20 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:44:20 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:44:20 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:44:20 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:44:20 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:44:20 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: AopTestMessage
+2025-01-16 13:44:30 [EmfoGMS-AllExceptions] ERROR p.e.domain.test.testService - Exception for All Exception Test.
+2025-01-16 13:44:30 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:44:30 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Unexpected error occurred: java.lang.IllegalArgumentException
+2025-01-16 13:44:30 [EmfoGMS-CustomExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: Exception for Custom Exception Test
+2025-01-16 13:44:30 [EmfoGMS-AllExceptions] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: null
+2025-01-16 13:44:30 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Service error occurred: practice.error_exception.global.exception.handler.testHandler
+2025-01-16 13:44:30 [taskScheduler-2] ERROR p.e.g.e.handler.CustomErrorHandler - Error Message: AopTestMessage
